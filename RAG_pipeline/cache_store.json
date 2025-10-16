@@ -1,0 +1,107 @@
+{
+    "9c7dc8b5bfe0e63de927418ce667c7950fb84453e451e541e34774285b0ac8c2": {
+        "question": "Q: What concession is available for women borrowers under Maha Super Housing Loan?",
+        "answer": "0.  05% concession on the rate of interest for women borrowers, applicable only for CIBIL score below 725.",
+        "timestamp": "2025-10-15T21:11:18.021812"
+    },
+    "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855": {
+        "question": "",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:11:18.956042"
+    },
+    "c818000a1b630ff0ae00adb42f249328cb86fb7d5a59aea9d6601e8a8bd824fa": {
+        "question": "Q: What is the interest rate for Maha Super Flexi Housing Loan Scheme?",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:11:55.775720"
+    },
+    "633781a257330d9a9e43353e960518770a229c1cbdad8aa5f812a7feaeba7bca": {
+        "question": "What is the interest rate for Maha Super Flexi Housing Loan Scheme?",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:12:06.173971"
+    },
+    "1cb002ce2809e7e4e5ed6827ec3dc9d56cda503e04c39f20b06f9e26779cff36": {
+        "question": "What is the rate of interest for Mahabank Vehicle Loan for purchasing second-hand cars for borrowers with CIBIL 650-699?",
+        "answer": "12.30% P.A (RLLR 4.00%)",
+        "timestamp": "2025-10-15T21:13:10.345032"
+    },
+    "05b993aeb686e5a0530d2e3f6df9abe28be28eb0b9ce276f47fbec7e6a121c06": {
+        "question": "A: 12.30% P.A (RLLR 4.00%)",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:13:16.099765"
+    },
+    "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824": {
+        "question": "hello",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:18:55.101836"
+    },
+    "ac1c4dbf9b9056c416f0711de2b443f1c08a5dd0167125390525324789743f15": {
+        "question": "A: 12.30% P.A (RLLR 4.00%) in how many CIBIL score",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:25:52.023546"
+    },
+    "06185522e4085460db5f973d6987f2c5f42519fccd56836e5e5ed9842962de8d": {
+        "question": "import requests",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:30:24.700711"
+    },
+    "b00d44f0e06de13006358742a4a82b5334488f3d7250419e1198f889d70df170": {
+        "question": "from bs4 import BeautifulSoup",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:30:25.487731"
+    },
+    "de2abade832c8e350a1bdc98cfcdb1e202ac4749c5fc51a4a970d41736b6df5c": {
+        "question": "import os",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:30:26.351544"
+    },
+    "c7d129fb56498a5cc64438881eac201e482f64db90e34a9e07ffccffdda4d2ab": {
+        "question": "# URL to scrape",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:30:27.159277"
+    },
+    "811c15bae3777ca5acb9d2a4bf25e1796cedc6c8260d5e155e65e0bea97ba5be": {
+        "question": "url = \"https://bankofmaharashtra.in/personal-banking/loans/home-loan\"",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:30:28.416933"
+    },
+    "117695eb3be2e91f3a1816695b931f45b729655a97e5a79f6885a56a36308514": {
+        "question": "# Output folder",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:30:31.526112"
+    },
+    "ad4137a5715ee07e009e738e5a370d34b447d8a745de6048663f62ed2253220f": {
+        "question": "output_folder = r\"D:\\Sagar\\bank of maharashtra loans gen ai project\\webpages\"",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:30:35.226532"
+    },
+    "a8d92c39e05b6d220a937c48a6495f64924ec8c7feb647f8b9a92a84578dbd3d": {
+        "question": "os.makedirs(output_folder, exist_ok=True)",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:30:36.097327"
+    },
+    "327efab7bbd3d9e773975133bfd3d472421177b332f5f0c8d0150df0d6780e0d": {
+        "question": "# Fetch webpage",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:30:37.151093"
+    },
+    "91bce01b492a9df67a5a7c258cdad1b01545f1c9b4c3e06dc99556cb1b0ac80d": {
+        "question": "headers = {\"User-Agent\": \"Mozilla/5.0\"}",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:30:38.640995"
+    },
+    "c58d64eb0c28c55cfdd5e9938b0848b94471718f9e650a5533a45ebe12b5a613": {
+        "question": "response = requests.get(url, headers=headers)",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:30:40.390449"
+    },
+    "5d2d3ceb7abe552344276d47d36a8175b7aeb250a9bf0bf00e850cd23ecf2e43": {
+        "question": "security",
+        "answer": "Sorry, I don't have information on that.",
+        "timestamp": "2025-10-15T21:31:39.111472"
+    },
+    "f0ab1c83f2e3a1a953cb970a9d03a2fcc98f03eed4e42edd8e508423bde09351": {
+        "question": "which types of home lone",
+        "answer": "Maha Super Housing Loan Scheme for Construction/Acquiring\nMaha Super Housing Loan Scheme for Purchase of Plot and Construction thereon\nMaha Super Housing Loan Scheme for repairs/ renovation/alteration of existing house/flat",
+        "timestamp": "2025-10-16T02:00:04.440497"
+    }
+}

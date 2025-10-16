@@ -1,0 +1,26 @@
+bs4
+request
+pandas
+tqdm
+lxml
+beautifulsoup4 
+fake-useragent
+langchain
+openai tiktoken
+faiss-cpu
+transformers 
+sentence-transformers
+tiktoken
+huggingface-hub
+angchain_huggingface
+sentence-transformers
+python-dotenv
+langchain 
+langchain-google-genai
+
+
+
+
+
+
+langchain_community
