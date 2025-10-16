@@ -77,13 +77,19 @@ python main.py
 bank_of_maharashtra_loan_scraper/
 │
 ├── main.py                    # Entry point script
+
 ├── scraper.py                 # Web scraping logic
+
 ├── data/
-<<<<<<< HEAD
+
 │   └── document.txt           # Output file
+
 ├── prompt/                    # LLM or chatbot templates
+
 ├── .env                       # API keys and environment variables
+
 ├── requirements.txt            # Project dependencies
+
 └── README.md                   # Documentation
 
 
@@ -104,7 +110,9 @@ This project is released under the MIT License — feel free to use, modify, and
 ---
 ### 👨‍💻 Author
 Sagar Abhang
+
 AI/ML Engineer 
+
 📧 sagarabhang276@gmail.com
 
 
