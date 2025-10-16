@@ -59,12 +59,6 @@ HUGGINGFACEHUB_API_TOKEN=your_huggingface_token
 
 
 
----
-### ▶️ Run the Project
-python main.py
-
-
-
 
 
 ---
